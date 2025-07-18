@@ -40,6 +40,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyLima07&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🚀 Projetos em Destaque
 
 * **[workshop-springboot3-jpa](https://github.com/AndreyLima07/workshop-springboot3-jpa)** - API REST com Spring Boot 3 + JPA
